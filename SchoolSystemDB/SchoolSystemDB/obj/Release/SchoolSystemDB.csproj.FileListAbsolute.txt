@@ -1,0 +1,17 @@
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\bin\Release\SchoolSystemDB.exe.config
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\bin\Release\SchoolSystemDB.exe
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\bin\Release\SchoolSystemDB.pdb
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Release\SchoolSystemDB.csprojAssemblyReference.cache
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Release\SchoolSystemDB.Class.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Release\SchoolSystemDB.Combined.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Release\SchoolSystemDB.MainForm.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Release\SchoolSystemDB.Grade.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Release\SchoolSystemDB.Headmaster.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Release\SchoolSystemDB.House.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Release\SchoolSystemDB.Properties.Resources.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Release\SchoolSystemDB.School.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Release\SchoolSystemDB.Student.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Release\SchoolSystemDB.csproj.GenerateResource.cache
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Release\SchoolSystemDB.csproj.CoreCompileInputs.cache
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Release\SchoolSystemDB.exe
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Release\SchoolSystemDB.pdb

@@ -1,0 +1,17 @@
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\bin\Debug\КурсоваяБД.exe.config
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\bin\Debug\КурсоваяБД.exe
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\bin\Debug\КурсоваяБД.pdb
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Debug\КурсоваяБД.csprojAssemblyReference.cache
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Debug\КурсоваяБД.Form1.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Debug\КурсоваяБД.Properties.Resources.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Debug\КурсоваяБД.School.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Debug\КурсоваяБД.csproj.GenerateResource.cache
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Debug\КурсоваяБД.csproj.CoreCompileInputs.cache
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Debug\КурсоваяБД.exe
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Debug\КурсоваяБД.pdb
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Debug\КурсоваяБД.House.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Debug\КурсоваяБД.Grade.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Debug\КурсоваяБД.Class.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Debug\КурсоваяБД.Common.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Debug\КурсоваяБД.Headmaster.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Debug\КурсоваяБД.Student.resources

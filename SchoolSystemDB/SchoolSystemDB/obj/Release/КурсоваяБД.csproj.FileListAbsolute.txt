@@ -1,0 +1,17 @@
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\bin\Release\КурсоваяБД.exe.config
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\bin\Release\КурсоваяБД.exe
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\bin\Release\КурсоваяБД.pdb
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Release\КурсоваяБД.csprojAssemblyReference.cache
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Release\КурсоваяБД.Class.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Release\КурсоваяБД.Common.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Release\КурсоваяБД.Form1.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Release\КурсоваяБД.Grade.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Release\КурсоваяБД.Headmaster.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Release\КурсоваяБД.House.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Release\КурсоваяБД.Properties.Resources.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Release\КурсоваяБД.School.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Release\КурсоваяБД.Student.resources
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Release\КурсоваяБД.csproj.GenerateResource.cache
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Release\КурсоваяБД.csproj.CoreCompileInputs.cache
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Release\КурсоваяБД.exe
+D:\visual\БАЗИ ДАНИХ\КурсоваяБД\КурсоваяБД\obj\Release\КурсоваяБД.pdb

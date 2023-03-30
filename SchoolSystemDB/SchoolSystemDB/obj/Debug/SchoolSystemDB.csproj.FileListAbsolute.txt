@@ -1,0 +1,17 @@
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\bin\Debug\SchoolSystemDB.exe.config
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\bin\Debug\SchoolSystemDB.exe
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\bin\Debug\SchoolSystemDB.pdb
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Debug\SchoolSystemDB.csprojAssemblyReference.cache
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Debug\SchoolSystemDB.Class.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Debug\SchoolSystemDB.Grade.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Debug\SchoolSystemDB.Headmaster.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Debug\SchoolSystemDB.House.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Debug\SchoolSystemDB.Properties.Resources.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Debug\SchoolSystemDB.School.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Debug\SchoolSystemDB.Student.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Debug\SchoolSystemDB.csproj.GenerateResource.cache
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Debug\SchoolSystemDB.csproj.CoreCompileInputs.cache
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Debug\SchoolSystemDB.exe
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Debug\SchoolSystemDB.pdb
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Debug\SchoolSystemDB.Combined.resources
+D:\visual\БАЗИ ДАНИХ\SchoolSystemDB\SchoolSystemDB\obj\Debug\SchoolSystemDB.MainForm.resources
